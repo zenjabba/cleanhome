@@ -13,8 +13,8 @@ This repository contains a Bash script designed to manage logical volumes by rem
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/zenjabba/cleanhome
+   cd cleanhome
    ```
 
 2. **Run the Script:**
